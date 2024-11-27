@@ -1,3 +1,7 @@
+# NAME : AADHITHYA PRANAVKRISH LOGANATHAN RAJU
+# REFERENCE NUMBER : 24003903
+
+
 # EX No.5.2.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
 ## DATE:
 
@@ -36,6 +40,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/28c3d202-7c41-4e61-9f94-c0c4dd8c91e7)
 
 
 ## RESULT:
